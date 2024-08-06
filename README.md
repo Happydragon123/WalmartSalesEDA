@@ -11,7 +11,7 @@
 ![download](https://github.com/user-attachments/assets/fac1c77a-871d-46b6-bb12-32ea928d221a)
 ![download-1](https://github.com/user-attachments/assets/fe32dec9-7e07-44d2-a95e-f090f70709a5)
 ![download-2](https://github.com/user-attachments/assets/7d86de3b-1d3b-4aa1-b225-6856fc7876ff)
-# Stores 28, 12, and 38 have a significantly higher rate of unemployment compared to other stores. This could be due to factors such as high crime rates, low pay, and higher costs of living motivating workers to find higher paying jobs
+# Stores 28, 12, and 38 have a significantly higher unemployment rate than other stores. This could be due to factors such as high crime rates, low pay, and higher costs of living motivating workers to find higher-paying jobs
 ![download-3](https://github.com/user-attachments/assets/6847844d-21ef-4f2c-bde1-a46afdc18586)
 # These scatter plots display a lack of correlation between weekly sales and other data points such as CPI, Fuel Prices, and temperature. 
 ![download](https://github.com/user-attachments/assets/76f398e3-37e6-4e45-9f85-d6e98d871002)
@@ -20,5 +20,6 @@
 
 
 ![download-2](https://github.com/user-attachments/assets/7afcc18e-dd05-4d32-8101-a2dad82de983)
+# Sales throughout the 3 years typically see a rise towards the end of the year, as the holiday season approaches and people are more encouraged to spend money.
 ![download-3](https://github.com/user-attachments/assets/aca96abf-8b27-4134-8ce8-ffb18a712dd2)
 ![download-4](https://github.com/user-attachments/assets/57ef077c-90e4-42af-bf0c-b333f6a5d7bf)
