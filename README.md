@@ -1,4 +1,5 @@
-# WalmartSalesEDA![download](https://github.com/user-attachments/assets/0b074d4b-04aa-4bf4-a13d-d8082fc5a37a)
+# WalmartSalesEDA
+![download](https://github.com/user-attachments/assets/0b074d4b-04aa-4bf4-a13d-d8082fc5a37a)
 ![download-1](https://github.com/user-attachments/assets/99ce80d4-3433-4533-b8ce-79f9d7d7b2c7)
 ![download-2](https://github.com/user-attachments/assets/676d0281-e0d4-4529-b8f4-20a4e51ffb2c)
 ![download-3](https://github.com/user-attachments/assets/0e84ff59-e837-4381-893a-f02106b25d50)
